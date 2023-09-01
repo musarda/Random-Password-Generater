@@ -21,4 +21,4 @@ First of all, we need a code editor with which we can run the code, so we will u
 ## Setup
 
 ```bash
-git clone https://github.com/musarda/Random-Password-Generater.git
+gh repo clone musarda/Random-Password-Generater
