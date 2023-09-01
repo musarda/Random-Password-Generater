@@ -24,7 +24,7 @@
 </div>
 <br>
 <div align="center">
-  This is a simple web based sample <b>Random Password Generator</b> application.
+  This is a simple web based sample <b>Random Password Generater</b> application.
 </div>
 
 
