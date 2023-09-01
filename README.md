@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Random Password Generator</h1>
+  <h1>Random Password Generater</h1>
 </div>
 <!------------BADGE------------>
 <div style="text-align: center;" align="center">
